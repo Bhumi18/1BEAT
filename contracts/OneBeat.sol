@@ -1,5 +1,7 @@
 //SPDX-License-Identifier:MIT
 
+/// @author Bhumi Sadariya
+
 pragma solidity ^0.8.0;
 
 contract OneBeat {
