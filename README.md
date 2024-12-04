@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# 1Beat 🎵  
+A decentralized platform for young local musicians to share their music live with the world, host concerts, and connect with a global audience. Explore live performances, support artists, and collect exclusive NFTs from your favorite shows.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## Project Description  
+**1Beat** is a decentralized platform designed for artists to share their work — music, videos, and art — in real-time. It provides a seamless way to stream performances live or schedule them for later, ensuring accessibility for fans worldwide.  
 
-In the project directory, you can run:
+### Key Features:  
+- **Live and Scheduled Streams:** Artists can broadcast live or plan streams in advance, giving their audience flexibility to join in.  
+- **On-Demand Viewing:** Missed a live show? Recordings are available to watch anytime.  
+- **Global Reach:** Fans can tune in from anywhere in the world, breaking geographical and time-bound barriers.  
+- **Community Support:** Focused on empowering independent artists, local bands, and emerging talents by giving them a platform to shine.  
 
-### `npm start`
+### NFT Integration:  
+1Beat incorporates NFTs as a way to immortalize moments from live shows. Artists can mint exclusive NFTs for parts of their performances, offering fans a chance to:  
+- **Own a piece of the experience.**  
+- **Show their support for the artist.**  
+- **Celebrate unique moments in live entertainment.**  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Whether it’s a live gig at a café, a street performance, or a grand concert, **1Beat** brings the experience closer to fans while creating new opportunities for artists.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## How It's Made  
+1Beat is built on cutting-edge blockchain and streaming technologies to ensure a seamless, decentralized experience.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **ZORA V3 Protocol:** Powers the NFT marketplace, enabling minting, buying, and selling of NFT collections.  
+- **Polygon:** Provides a fast, scalable, and eco-friendly blockchain foundation for the platform.  
+- **IPFS & NFT.Storage:** Ensures reliable, decentralized storage of NFT metadata for long-term accessibility.  
+- **Livepeer:** Facilitates high-quality live streaming, making it easy for artists to connect with their audience in real-time.  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Why 1Beat?  
+- **For Artists:** A platform to share their work, grow their audience, and earn recognition and income through NFTs.  
+- **For Fans:** A chance to connect with favorite artists, enjoy live performances, and own exclusive digital collectibles.  
+- **For Everyone:** Breaking barriers in live entertainment by combining art, music, and blockchain technology.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
